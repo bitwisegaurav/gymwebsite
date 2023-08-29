@@ -120,7 +120,6 @@
     /* background: url('../bg3.jpg') no-repeat center center/cover; */
     height: 100%;
     width: 100%;
-    object-fit: cover;
     /* opacity: 0.7; */
 }
 
